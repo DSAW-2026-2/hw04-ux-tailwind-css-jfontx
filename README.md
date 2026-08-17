@@ -2,6 +2,12 @@
 
 **Week 4 · DSAW · Universidad de La Sabana**
 
+**Author: Jorge Fontalvo**
+
+**GitHub username: jfontx**
+
+**GitHub deployed page link: https://dsaw-2026-2.github.io/hw04-ux-tailwind-css-jfontx/**
+
 ## Objective
 
 Create complete wireframes for your project in Figma and rebuild the landing page with Tailwind CSS, including a working dark mode toggle.
